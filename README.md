@@ -36,9 +36,9 @@
     ```
     or 
     ```sh
-    ./assignments --job=all
+    $ ./assignments --job=all
     ```
     Print out all assignment grades for all modules:
     ```sh
-    ./assignments --job=grades
+    $ ./assignments --job=grades
     ```
