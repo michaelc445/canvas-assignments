@@ -19,9 +19,9 @@
 	}
     ```
     The key can be anything you like but the name makes the most sense. The integer value is your module code on canvas, you can get this by visiting the module page and it will be in the url.
-    Here is the url the home page of the Team Software Project module
+    Here is the url the home page of the Software Engineering module
     ```
-    https://ucc.instructure.com/courses/48420
+    https://ucc.instructure.com/courses/48475
     ```
     Just create an entry in the courses map for each of your modules.
 
